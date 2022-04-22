@@ -1,1 +1,1 @@
-# conference-landing-page
+## Landing page of conference (html, css, js)
