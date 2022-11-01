@@ -1,5 +1,5 @@
 // время для обратного отсчета
-let countDownDate = new Date('26 Sep, 2022 00:00:01').getTime();
+let countDownDate = new Date('26 Dec, 2022 00:00:01').getTime();
 
 // Обновляем таймер каждую секунду
 
